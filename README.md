@@ -2,7 +2,7 @@
 
 **NASA-Images** is a simple and elegant image search website powered by NASA's public Image and Video Library API. Built as part of the [Exercism Frontend Fundamentals Bootcamp](https://exercism.org/), this project lets users search and explore stunning space images directly from NASA's archive.
 
-🌐 **Live Demo**: [https://your-username.github.io/NASA-Images](https://xlink9x.github.io/NASA-Images)  
+🌐 **Live Demo**: [https://xlink9x.github.io/NASA-Images](https://xlink9x.github.io/NASA-Images)  
 📸 **API Used**: [NASA Image and Video Library API](https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf)
 
 ---
